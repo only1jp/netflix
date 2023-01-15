@@ -1,0 +1,92 @@
+body {
+  background-color: #222222;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center;
+  align-items: center; */
+  gap: 10px;
+}
+
+.top {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+  text-align: center;
+  background-image: url(images/bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  color: white;
+}
+
+.Enjoy-your-tv {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100%;
+  color: white;
+}
+
+.Download-your-shows {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100%;
+  color: white;
+}
+
+.Watch-everywhere {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100%;
+  color: white;
+}
+
+.Create-profiles {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100%;
+  color: white;
+}
+
+.frequently-asked-questions {
+  text-align: center;
+  width: 50%;
+  margin: 0px auto;
+  background-color: black;
+}
+
+.questions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  /* width: 50%;
+  margin: 0px auto; */
+}
+
+.question {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #222222;
+}
+
+.footer-center {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+footer {
+  background-color: black;
+  color: #757575;
+}
