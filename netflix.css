@@ -59,8 +59,6 @@ body {
 
 .frequently-asked-questions {
   text-align: center;
-  width: 50%;
-  margin: 0px auto;
   background-color: black;
 }
 
@@ -78,6 +76,10 @@ body {
   align-items: center;
   justify-content: space-between;
   background-color: #222222;
+
+  width: 50%;
+
+  margin: 0px auto;
 }
 
 .footer-center {
